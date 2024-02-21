@@ -12,8 +12,35 @@ h1{
   text-align: center;
   margin-top: 30mm;
 }
+
 #SubTitulo {
+  margin-bottom: 4em;
+}
+
+p {
   margin: 2px;
   text-align: center;
   color: white;
+}
+
+.PlayButton {
+  text-align: center;
+}
+
+#PlayButton {
+  font-family: "Fredoka", sans-serif;
+  padding: 1em;
+  border-radius: 30px;
+  padding-left: 2em;
+  padding-right: 2em;
+  color: white;
+  border-color: transparent;
+  background-color: rgb(43, 37, 78);
+  cursor: pointer;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+#PlayButton:hover {
+  box-shadow: 0 24px 32px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  background-color: rgb(50, 42, 99);
 }
