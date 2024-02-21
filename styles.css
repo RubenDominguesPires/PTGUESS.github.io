@@ -5,8 +5,14 @@ body {
   background-color: rgb(28, 24, 52);
 }
 
-h1{
-  color: white;
+:root {
+  --color: white;
+  --font-family: "Fredoka", sans-serif;
+  --background-color: rgb(43, 37, 78) ;
+}
+
+h1 {
+  color: var(--color);
 }
 #Titulo {
   text-align: center;
@@ -28,19 +34,45 @@ p {
 }
 
 #PlayButton {
-  font-family: "Fredoka", sans-serif;
+  font-family: var(--font-family);
   padding: 1em;
   border-radius: 30px;
   padding-left: 2em;
   padding-right: 2em;
   color: white;
   border-color: transparent;
-  background-color: rgb(43, 37, 78);
+  background-color: var(--background-color);
   cursor: pointer;
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 #PlayButton:hover {
-  box-shadow: 0 24px 32px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
-  background-color: rgb(50, 42, 99);
+  box-shadow: 0 24px 32px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+  background-color: var(--background-color);
+}
+
+.Formulario {
+  text-align: center;
+}
+
+#Formulario {
+  font-family: var(--font-family);
+  padding: 1em;
+  margin-top: 3em;
+  border-radius: 30px;
+  color: var(--color);
+  border-color: transparent;
+  background-color: var(--background-color);
+  box-shadow: 0 24px 32px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+  cursor: text;
+  font-size: 20px;
+  padding-left: 4em;
+  padding-right: 4em;
+  outline: none;
+}
+
+#Formulario {
+  border-color: transparent;
 }
