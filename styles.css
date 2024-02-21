@@ -8,7 +8,7 @@ body {
 :root {
   --color: white;
   --font-family: "Fredoka", sans-serif;
-  --background-color: rgb(43, 37, 78) ;
+  --background-color: rgb(43, 37, 78);
 }
 
 h1 {
@@ -49,7 +49,7 @@ p {
 #PlayButton:hover {
   box-shadow: 0 24px 32px 0 rgba(0, 0, 0, 0.24),
     0 17px 50px 0 rgba(0, 0, 0, 0.19);
-  background-color: var(--background-color);
+  background-color:rgb(59, 49, 116);
 }
 
 .Formulario {
@@ -68,11 +68,21 @@ p {
     0 17px 50px 0 rgba(0, 0, 0, 0.19);
   cursor: text;
   font-size: 20px;
-  padding-left: 4em;
-  padding-right: 4em;
+  padding-right: 7em;
   outline: none;
+  animation: transformer 1s;
+}
+
+@keyframes transformer {
+  from {
+    transform: scale(0.1);
+}
+to {
+    transform: scale(1);
+}
 }
 
 #Formulario {
   border-color: transparent;
+  display: none;
 }
