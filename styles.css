@@ -39,6 +39,7 @@ p {
   border-radius: 30px;
   padding-left: 2em;
   padding-right: 2em;
+  font-size: 18px;
   color: white;
   border-color: transparent;
   background-color: var(--background-color);
@@ -49,7 +50,7 @@ p {
 #PlayButton:hover {
   box-shadow: 0 24px 32px 0 rgba(0, 0, 0, 0.24),
     0 17px 50px 0 rgba(0, 0, 0, 0.19);
-  background-color:rgb(59, 49, 116);
+  background-color: rgb(59, 49, 116);
 }
 
 .Formulario {
@@ -76,10 +77,18 @@ p {
 @keyframes transformer {
   from {
     transform: scale(0.1);
-}
-to {
+  }
+  to {
     transform: scale(1);
+  }
 }
+
+
+/* Phone site responsive */
+@media screen and (max-width: 446px) {
+  #Formulario {
+    padding-right: 4em;
+  }
 }
 
 #Formulario {
