@@ -11,16 +11,42 @@ body {
   --background-color: rgb(43, 37, 78);
 }
 
+.caixa {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  width: 700px;
+  margin-top: 8em;
+  height: 500px;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 3.6em;
+}
+
+.top-bar {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
 h1 {
   color: var(--color);
-}
-#Titulo {
+  margin-top: 0;
+  margin-bottom: 0;
+  width: 430px;
   text-align: center;
-  margin-top: 30mm;
+  margin-left: 140px;
+  margin-right: 0px;
+}
+
+#Titulo {
+  text-align: right;
 }
 
 #SubTitulo {
   margin-bottom: 4em;
+  margin-top: 1.5em;
 }
 
 p {
@@ -53,6 +79,14 @@ p {
   background-color: rgb(59, 49, 116);
 }
 
+#ListButton {
+  color: var(--color);
+  width: 32px;
+  height: 32px;
+  cursor: pointer;
+  position: fixed;
+}
+
 .Formulario {
   text-align: center;
 }
@@ -82,7 +116,6 @@ p {
     transform: scale(1);
   }
 }
-
 
 /* Phone site responsive */
 @media screen and (max-width: 446px) {
