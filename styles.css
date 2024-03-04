@@ -12,63 +12,67 @@ body {
 }
 
 .caixa {
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: auto;
-  width: 700px;
-  margin-top: 8em;
+  display: grid;
+  width: auto;
   height: 500px;
+  margin: auto;
+  margin-top: 6em;
   padding-left: 10px;
   padding-top: 10px;
   padding-right: 10px;
   padding-bottom: 3.6em;
 }
 
-.top-bar {
-  align-items: center;
+.caixa > .top-bar:nth-child(1) {
   display: flex;
-  justify-content: space-between;
+  align-items:center;
+  justify-content: center;
+  align-self: center;
 }
 
 h1 {
   color: var(--color);
-  margin-top: 0;
-  margin-bottom: 0;
   width: 430px;
-  text-align: center;
   margin-left: 140px;
   margin-right: 0px;
+  margin: auto;
+  text-align: center;
 }
 
 #Titulo {
   text-align: right;
 }
 
-#SubTitulo {
-  margin-bottom: 4em;
-  margin-top: 1.5em;
+.caixa > .SubTitulo:nth-child(2) {
+  padding: auto;
+  margin: auto;
+  align-items: center;
+  align-content: center;
 }
 
 p {
   margin: 2px;
-  text-align: center;
   color: white;
+  text-align: center;
 }
 
-.PlayButton {
+.caixa > .PlayButton:nth-child(3) {
+  display: flex;
+  justify-content: center;
+  align-self: center;
   text-align: center;
 }
 
 #PlayButton {
   font-family: var(--font-family);
+  background-color: var(--background-color);
+  color: white;
   padding: 1em;
-  border-radius: 30px;
   padding-left: 2em;
   padding-right: 2em;
+  border-radius: 30px;
   font-size: 18px;
-  color: white;
   border-color: transparent;
-  background-color: var(--background-color);
   cursor: pointer;
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
@@ -87,23 +91,26 @@ p {
   position: fixed;
 }
 
-.Formulario {
-  text-align: center;
+.caixa > .Formulario:nth-child(4) {
+  display: flex;
+  justify-content:center;
+  text-align:center;  
 }
 
 #Formulario {
   font-family: var(--font-family);
-  padding: 1em;
-  margin-top: 3em;
-  border-radius: 30px;
-  color: var(--color);
-  border-color: transparent;
   background-color: var(--background-color);
+  color: var(--color);
   box-shadow: 0 24px 32px 0 rgba(0, 0, 0, 0.24),
     0 17px 50px 0 rgba(0, 0, 0, 0.19);
-  cursor: text;
-  font-size: 20px;
+  border-color: transparent;
+  display: none;
+  padding: 1em;
+  margin-top: 2em;
   padding-right: 7em;
+  border-radius: 30px;
+  font-size: 20px;
+  cursor: text;
   outline: none;
   animation: transformer 1s;
 }
@@ -118,13 +125,8 @@ p {
 }
 
 /* Phone site responsive */
-@media screen and (max-width: 446px) {
+/* @media screen and (max-width: 446px) {
   #Formulario {
     padding-right: 4em;
   }
-}
-
-#Formulario {
-  border-color: transparent;
-  display: none;
-}
+} */
