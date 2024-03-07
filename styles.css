@@ -13,34 +13,43 @@ body {
 
 .caixa {
   display: grid;
-  width: auto;
+  width: 90%;
+  min-width: 200px;
   height: 500px;
   margin: auto;
   margin-top: 6em;
-  padding-left: 10px;
-  padding-top: 10px;
-  padding-right: 10px;
-  padding-bottom: 3.6em;
+  padding: 10px;
+  overflow: hidden;
 }
 
-.caixa > .top-bar:nth-child(1) {
+.caixa > * {
+  width: 100%;
+  min-width: 200px;
+}
+
+.caixa > #Titulo:nth-child(1) {
   display: flex;
-  align-items:center;
-  justify-content: center;
-  align-self: center;
+  width: auto;
+  min-width: 200px;
+  align-items: center;
+  align-content: center;
+  margin: auto;
 }
 
 h1 {
   color: var(--color);
-  width: 430px;
-  margin-left: 140px;
-  margin-right: 0px;
+  width: auto;
   margin: auto;
+  margin-left: 2em;
+  margin-right: 30px;
   text-align: center;
 }
 
-#Titulo {
-  text-align: right;
+#ListButton {
+  color: var(--color);
+  width: 32px;
+  height: 32px;
+  cursor: pointer;
 }
 
 .caixa > .SubTitulo:nth-child(2) {
@@ -83,18 +92,10 @@ p {
   background-color: rgb(59, 49, 116);
 }
 
-#ListButton {
-  color: var(--color);
-  width: 32px;
-  height: 32px;
-  cursor: pointer;
-  position: fixed;
-}
-
 .caixa > .Formulario:nth-child(4) {
-  display: flex;
-  justify-content:center;
-  text-align:center;  
+  width: 100%;
+  margin: auto;
+  text-align: center;
 }
 
 #Formulario {
@@ -124,9 +125,8 @@ p {
   }
 }
 
-/* Phone site responsive */
-/* @media screen and (max-width: 446px) {
+@media screen and (max-width: 500px) {
   #Formulario {
-    padding-right: 4em;
+    font-size: 15px;
   }
-} */
+}
