@@ -4,7 +4,7 @@ body {
   font-optical-sizing: auto;
   background-color: rgb(28, 24, 52);
 }
-
+/* Variaveis */
 :root {
   --color: white;
   --font-family: "Fredoka", sans-serif;
@@ -19,7 +19,7 @@ body {
   flex-wrap: wrap;
   width: 90%;
   min-width: 200px;
-  height: 500px;
+  height: 100%;
   margin: auto;
   margin-top: 6em;
   padding: 10px;
@@ -52,6 +52,7 @@ h1 {
   width: 100%;
   padding: auto;
   margin: 0;
+  margin-bottom: 4em;
 }
 
 p {
@@ -87,6 +88,8 @@ p {
 .caixa > .Formulario:nth-child(4) {
   width: 100%;
   margin: 0;
+  margin-top: 3em;
+  margin-bottom: 3em;
   text-align: center;
 }
 
@@ -116,9 +119,70 @@ p {
   }
 }
 
-@media screen and (max-width: 530px) {
+/* Time Display */
+.TimeDisplay {
+  display: none;
+  justify-content: center;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  margin-top: 1vh;
+  margin-bottom: 2em;
+  animation: transformer 1s;
+}
+
+.Time-Box {
+  background-color: var(--background-color);
+  color: var(--color);
+  border-radius: 10px;
+  box-shadow: 0 24px 32px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+  width: 17vh;
+  height: 100%;
+  margin: 20px;
+  padding: 5px;
+  text-align: center;
+}
+
+.Time-Box h5 {
+  color: var(--color);
+  margin-top: 0.5em;
+  margin-left: 1vh;
+  margin-right: 1vh;
+  margin-bottom: 1em;
+  padding: 0;
+}
+.Time-Box h1 {
+  color: var(--color);
+}
+
+@keyframes transformer {
+  from {
+    transform: scale(0.1);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+
+@media screen and (max-width: 550px) {
   #Formulario {
     width: 90%;
     padding-right: 0;
+  }
+
+  .TimeDisplay {
+    width: 100%;
+    min-width: 100px;
+    font-size: 13px;
+  }
+
+  .Time-Box {
+    margin: 8px;
+  }
+
+  .Time-Box h5{
+    margin-left: 0.5vh;
+    margin-right: 0.5vh;
   }
 }
