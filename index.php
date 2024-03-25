@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>PTGUESS</title>
     <link rel="stylesheet" href="/publico/styles.css" />
-    <link rel="shortcut icon" href="/Imagens/favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="/Imagens/favicon.png" type="image/x-icon" />
   </head>
   <body>
     <!--CAIXA-->
@@ -67,11 +67,12 @@
         <div class="Time-Box">
           <h5>MILISEGUNDOS</h5>
           <h1 id="milisegundo">99</h1>
+          <h1>lagger</h1>
         </div>
       </div>
     </div>
     <!--/CAIXA-->
-    <script src="/js/jogo.js"></script>
-    <script src="/js/JavaScript.js"></script>
+    <script src="js/JavaScript.js"></script>
+    <script src="js/jogo.js"></script>
   </body>
 </html>
