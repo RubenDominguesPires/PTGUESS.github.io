@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<<<<<<< HEAD:index.php
 
 <head>
   <meta charset="UTF-8" />
@@ -17,22 +16,6 @@
     <div class="Titulo">
       <!--LIST BUTTON-->
       <!-- <svg
-=======
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>PTGUESS</title>
-    <link rel="stylesheet" href="/css/styles.css" />
-    <link rel="shortcut icon" href="/Imagens/favicon.png" type="image/x-icon" />
-  </head>
-  <body>
-    <!--CAIXA-->
-    <div class="caixa">
-      <!--TITULO-->
-      <div class="Titulo">
-        <!--LIST BUTTON-->
-        <!-- <svg
->>>>>>> 3a4e21f7758d0ffe1fe70f01ed54f2a188778d4c:index.html
           id="ListButton"
           xmlns="http://www.w3.org/2000/svg"
           width="16"
