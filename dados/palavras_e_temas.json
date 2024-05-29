@@ -1,0 +1,468 @@
+{
+  "desportos": [
+    {
+      "nome": "Futebol",
+      "imagem": "url_para_a_imagem_do_desporto"
+    },
+    {
+      "nome": "Basquetebol",
+      "imagem": "url_para_a_imagem_do_desporto"
+    },
+    {
+      "nome": "Natação",
+      "imagem": "url_para_a_imagem_do_desporto"
+    },
+    {
+      "nome": "Tênis",
+      "imagem": "url_para_a_imagem_do_desporto"
+    },
+    {
+      "nome": "Voleibol",
+      "imagem": "url_para_a_imagem_do_desporto"
+    },
+    {
+      "nome": "Atletismo",
+      "imagem": "url_para_a_imagem_do_desporto"
+    },
+    {
+      "nome": "Golfe",
+      "imagem": "url_para_a_imagem_do_desporto"
+    },
+    {
+      "nome": "Surf",
+      "imagem": "url_para_a_imagem_do_desporto"
+    },
+    {
+      "nome": "Hóquei",
+      "imagem": "url_para_a_imagem_do_desporto"
+    },
+    {
+      "nome": "Ginástica",
+      "imagem": "url_para_a_imagem_do_desporto"
+    },
+    {
+      "nome": "Rugby",
+      "imagem": "url_para_a_imagem_do_desporto"
+    },
+    {
+      "nome": "Boxe",
+      "imagem": "url_para_a_imagem_do_desporto"
+    },
+    {
+      "nome": "Ciclismo",
+      "imagem": "url_para_a_imagem_do_desporto"
+    },
+    {
+      "nome": "Skate",
+      "imagem": "url_para_a_imagem_do_desporto"
+    },
+    {
+      "nome": "Badmínton",
+      "imagem": "url_para_a_imagem_do_desporto"
+    },
+    {
+      "nome": "Tiro",
+      "imagem": "url_para_a_imagem_do_desporto"
+    },
+    {
+      "nome": "Patinagem",
+      "imagem": "url_para_a_imagem_do_desporto"
+    },
+    {
+      "nome": "Esqui",
+      "imagem": "url_para_a_imagem_do_desporto"
+    },
+    {
+      "nome": "Corrida",
+      "imagem": "url_para_a_imagem_do_desporto"
+    },
+    {
+      "nome": "Bilhar",
+      "imagem": "url_para_a_imagem_do_desporto"
+    }
+  ],
+  "frutas": [
+    {
+      "nome": "Maçã",
+      "imagem": "url_para_a_imagem_da_fruta"
+    },
+    {
+      "nome": "Banana",
+      "imagem": "url_para_a_imagem_da_fruta"
+    },
+    {
+      "nome": "Laranja",
+      "imagem": "url_para_a_imagem_da_fruta"
+    },
+    {
+      "nome": "Morango",
+      "imagem": "url_para_a_imagem_da_fruta"
+    },
+    {
+      "nome": "Uva",
+      "imagem": "url_para_a_imagem_da_fruta"
+    },
+    {
+      "nome": "Pera",
+      "imagem": "url_para_a_imagem_da_fruta"
+    },
+    {
+      "nome": "Abacaxi",
+      "imagem": "url_para_a_imagem_da_fruta"
+    },
+    {
+      "nome": "Melancia",
+      "imagem": "url_para_a_imagem_da_fruta"
+    },
+    {
+      "nome": "Limão",
+      "imagem": "url_para_a_imagem_da_fruta"
+    },
+    {
+      "nome": "Cereja",
+      "imagem": "url_para_a_imagem_da_fruta"
+    },
+    {
+      "nome": "Kiwi",
+      "imagem": "url_para_a_imagem_da_fruta"
+    },
+    {
+      "nome": "Pêssego",
+      "imagem": "url_para_a_imagem_da_fruta"
+    },
+    {
+      "nome": "Ananás",
+      "imagem": "url_para_a_imagem_da_fruta"
+    },
+    {
+      "nome": "Manga",
+      "imagem": "url_para_a_imagem_da_fruta"
+    },
+    {
+      "nome": "Melão",
+      "imagem": "url_para_a_imagem_da_fruta"
+    },
+    {
+      "nome": "Framboesa",
+      "imagem": "url_para_a_imagem_da_fruta"
+    },
+    {
+      "nome": "Mirtilo",
+      "imagem": "url_para_a_imagem_da_fruta"
+    },
+    {
+      "nome": "Coco",
+      "imagem": "url_para_a_imagem_da_fruta"
+    },
+    {
+      "nome": "Ameixa",
+      "imagem": "url_para_a_imagem_da_fruta"
+    },
+    {
+      "nome": "Figo",
+      "imagem": "url_para_a_imagem_da_fruta"
+    }
+  ],
+  "paises": [
+    {
+      "nome": "Portugal",
+      "bandeira": "url_para_a_imagem_da_bandeira"
+    },
+    {
+      "nome": "Brasil",
+      "bandeira": "url_para_a_imagem_da_bandeira"
+    },
+    {
+      "nome": "Espanha",
+      "bandeira": "url_para_a_imagem_da_bandeira"
+    },
+    {
+      "nome": "França",
+      "bandeira": "url_para_a_imagem_da_bandeira"
+    },
+    {
+      "nome": "Itália",
+      "bandeira": "url_para_a_imagem_da_bandeira"
+    },
+    {
+      "nome": "Alemanha",
+      "bandeira": "url_para_a_imagem_da_bandeira"
+    },
+    {
+      "nome": "Estados Unidos",
+      "bandeira": "url_para_a_imagem_da_bandeira"
+    },
+    {
+      "nome": "Canadá",
+      "bandeira": "url_para_a_imagem_da_bandeira"
+    },
+    {
+      "nome": "Japão",
+      "bandeira": "url_para_a_imagem_da_bandeira"
+    },
+    {
+      "nome": "China",
+      "bandeira": "url_para_a_imagem_da_bandeira"
+    },
+    {
+      "nome": "Rússia",
+      "bandeira": "url_para_a_imagem_da_bandeira"
+    },
+    {
+      "nome": "Reino Unido",
+      "bandeira": "url_para_a_imagem_da_bandeira"
+    },
+    {
+      "nome": "Argentina",
+      "bandeira": "url_para_a_imagem_da_bandeira"
+    },
+    {
+      "nome": "Austrália",
+      "bandeira": "url_para_a_imagem_da_bandeira"
+    },
+    {
+      "nome": "Índia",
+      "bandeira": "url_para_a_imagem_da_bandeira"
+    },
+    {
+      "nome": "México",
+      "bandeira": "url_para_a_imagem_da_bandeira"
+    },
+    {
+      "nome": "Coreia",
+      "bandeira": "url_para_a_imagem_da_bandeira"
+    },
+    {
+      "nome": "África",
+      "bandeira": "url_para_a_imagem_da_bandeira"
+    },
+    {
+      "nome": "Egito",
+      "bandeira": "url_para_a_imagem_da_bandeira"
+    },
+    {
+      "nome": "Suécia",
+      "bandeira": "url_para_a_imagem_da_bandeira"
+    }
+  ],
+  "marcas_carro": [
+    {
+      "nome": "Toyota",
+      "logo": "caminho/para/logo_toyota.png"
+    },
+    {
+      "nome": "Volkswagen",
+      "logo": "caminho/para/logo_volkswagen.png"
+    },
+    {
+      "nome": "Ford",
+      "logo": "caminho/para/logo_ford.png"
+    },
+    {
+      "nome": "Chevrolet",
+      "logo": "caminho/para/logo_chevrolet.png"
+    },
+    {
+      "nome": "Nissan",
+      "logo": "caminho/para/logo_nissan.png"
+    },
+    {
+      "nome": "Honda",
+      "logo": "caminho/para/logo_honda.png"
+    },
+    {
+      "nome": "Hyundai",
+      "logo": "caminho/para/logo_hyundai.png"
+    },
+    {
+      "nome": "Mercedes-Benz",
+      "logo": "caminho/para/logo_mercedes-benz.png"
+    },
+    {
+      "nome": "BMW",
+      "logo": "caminho/para/logo_bmw.png"
+    },
+    {
+      "nome": "Audi",
+      "logo": "caminho/para/logo_audi.png"
+    },
+    {
+      "nome": "Kia",
+      "logo": "caminho/para/logo_kia.png"
+    },
+    {
+      "nome": "Peugeot",
+      "logo": "caminho/para/logo_peugeot.png"
+    },
+    {
+      "nome": "Renault",
+      "logo": "caminho/para/logo_renault.png"
+    },
+    {
+      "nome": "Fiat",
+      "logo": "caminho/para/logo_fiat.png"
+    },
+    {
+      "nome": "Jeep",
+      "logo": "caminho/para/logo_jeep.png"
+    },
+    {
+      "nome": "Volvo",
+      "logo": "caminho/para/logo_volvo.png"
+    },
+    {
+      "nome": "Mazda",
+      "logo": "caminho/para/logo_mazda.png"
+    },
+    {
+      "nome": "Subaru",
+      "logo": "caminho/para/logo_subaru.png"
+    },
+    {
+      "nome": "Lexus",
+      "logo": "caminho/para/logo_lexus.png"
+    },
+    {
+      "nome": "Tesla",
+      "logo": "caminho/para/logo_tesla.png"
+    },
+    {
+      "nome": "Jaguar",
+      "logo": "caminho/para/logo_jaguar.png"
+    },
+    {
+      "nome": "Land Rover",
+      "logo": "caminho/para/logo_land_rover.png"
+    },
+    {
+      "nome": "Porsche",
+      "logo": "caminho/para/logo_porsche.png"
+    },
+    {
+      "nome": "Ferrari",
+      "logo": "caminho/para/logo_ferrari.png"
+    },
+    {
+      "nome": "Maserati",
+      "logo": "caminho/para/logo_maserati.png"
+    },
+    {
+      "nome": "Lamborghini",
+      "logo": "caminho/para/logo_lamborghini.png"
+    },
+    {
+      "nome": "Aston Martin",
+      "logo": "caminho/para/logo_aston_martin.png"
+    },
+    {
+      "nome": "Alfa Romeo",
+      "logo": "caminho/para/logo_alfa_romeo.png"
+    },
+    {
+      "nome": "Bentley",
+      "logo": "caminho/para/logo_bentley.png"
+    },
+    {
+      "nome": "Rolls-Royce",
+      "logo": "caminho/para/logo_rolls_royce.png"
+    },
+    {
+      "nome": "Bugatti",
+      "logo": "caminho/para/logo_bugatti.png"
+    },
+    {
+      "nome": "McLaren",
+      "logo": "caminho/para/logo_mclaren.png"
+    },
+    {
+      "nome": "Lotus",
+      "logo": "caminho/para/logo_lotus.png"
+    },
+    {
+      "nome": "Mini",
+      "logo": "caminho/para/logo_mini.png"
+    }
+  ],
+  "equipas_futebol_portuguesas": [
+    {
+      "nome": "Benfica",
+      "imagem": "url_para_a_imagem_da_equipa"
+    },
+    {
+      "nome": "Porto",
+      "imagem": "url_para_a_imagem_da_equipa"
+    },
+    {
+      "nome": "Sporting",
+      "imagem": "url_para_a_imagem_da_equipa"
+    },
+    {
+      "nome": "Braga",
+      "imagem": "url_para_a_imagem_da_equipa"
+    },
+    {
+      "nome": "Guimarães",
+      "imagem": "url_para_a_imagem_da_equipa"
+    },
+    {
+      "nome": "Boavista",
+      "imagem": "url_para_a_imagem_da_equipa"
+    },
+    {
+      "nome": "Belenenses",
+      "imagem": "url_para_a_imagem_da_equipa"
+    },
+    {
+      "nome": "Paços de Ferreira",
+      "imagem": "url_para_a_imagem_da_equipa"
+    },
+    {
+      "nome": "Moreirense",
+      "imagem": "url_para_a_imagem_da_equipa"
+    },
+    {
+      "nome": "Famalicão",
+      "imagem": "url_para_a_imagem_da_equipa"
+    },
+    {
+      "nome": "Portimonense",
+      "imagem": "url_para_a_imagem_da_equipa"
+    },
+    {
+      "nome": "Rio Ave",
+      "imagem": "url_para_a_imagem_da_equipa"
+    },
+    {
+      "nome": "Gil Vicente",
+      "imagem": "url_para_a_imagem_da_equipa"
+    },
+    {
+      "nome": "Tondela",
+      "imagem": "url_para_a_imagem_da_equipa"
+    },
+    {
+      "nome": "Marítimo",
+      "imagem": "url_para_a_imagem_da_equipa"
+    },
+    {
+      "nome": "Santa Clara",
+      "imagem": "url_para_a_imagem_da_equipa"
+    },
+    {
+      "nome": "Nacional",
+      "imagem": "url_para_a_imagem_da_equipa"
+    },
+    {
+      "nome": "Arouca",
+      "imagem": "url_para_a_imagem_da_equipa"
+    },
+    {
+      "nome": "Estoril",
+      "imagem": "url_para_a_imagem_da_equipa"
+    },
+    {
+      "nome": "Varzim",
+      "imagem": "url_para_a_imagem_da_equipa"
+    }
+  ]
+}
