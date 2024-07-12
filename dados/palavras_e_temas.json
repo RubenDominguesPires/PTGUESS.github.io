@@ -1,468 +1,544 @@
 {
-  "desportos": [
+  "Desporto": [
     {
       "nome": "Futebol",
-      "imagem": "url_para_a_imagem_do_desporto"
+      "imagem": "https://png.pngtree.com/png-clipart/20220826/ourmid/pngtree-football-championship-realistic-soccer-ball-isolated-png-image_6125491.png"
     },
     {
       "nome": "Basquetebol",
-      "imagem": "url_para_a_imagem_do_desporto"
+      "imagem": "https://cdn-icons-png.flaticon.com/256/889/889455.png"
     },
     {
       "nome": "Natação",
-      "imagem": "url_para_a_imagem_do_desporto"
+      "imagem": "https://cdn-icons-png.flaticon.com/256/4592/4592135.png"
     },
     {
-      "nome": "Tênis",
-      "imagem": "url_para_a_imagem_do_desporto"
+      "nome": "Ténis",
+      "imagem": "https://i.pinimg.com/originals/ef/e1/2f/efe12fee0c948739b35da27a78a13f3c.png"
     },
     {
       "nome": "Voleibol",
-      "imagem": "url_para_a_imagem_do_desporto"
+      "imagem": "https://png.pngtree.com/png-clipart/20230131/ourmid/pngtree-three-dimensional-simulation-volleyball-ball-png-image_6204788.png"
     },
     {
       "nome": "Atletismo",
-      "imagem": "url_para_a_imagem_do_desporto"
+      "imagem": "https://images.vexels.com/media/users/3/197938/isolated/lists/d3c1b3eb652690189ea53274dee9f29f-atletismo-azul.png"
     },
     {
-      "nome": "Golfe",
-      "imagem": "url_para_a_imagem_do_desporto"
+      "nome": "Golf",
+      "imagem": "https://images.vexels.com/media/users/3/130645/isolated/lists/ce473167594f1abb5379ae31539906a6-golf-ball.png"
     },
     {
       "nome": "Surf",
-      "imagem": "url_para_a_imagem_do_desporto"
+      "imagem": "https://images.vexels.com/media/users/3/157605/isolated/lists/db7010fba53956d9b78db7eaa8025a43-silueta-de-posicion-de-equilibrio-de-surf.png"
     },
     {
       "nome": "Hóquei",
-      "imagem": "url_para_a_imagem_do_desporto"
+      "imagem": "https://www.wikisporting.com/images/b/b9/Bola-h%C3%B3quei.png"
     },
     {
       "nome": "Ginástica",
-      "imagem": "url_para_a_imagem_do_desporto"
+      "imagem": "https://static.vecteezy.com/system/resources/previews/001/192/405/non_2x/olympic-gymnastic-png.png"
     },
     {
       "nome": "Rugby",
-      "imagem": "url_para_a_imagem_do_desporto"
+      "imagem": "https://cdn-icons-png.flaticon.com/256/7396/7396044.png"
     },
     {
       "nome": "Boxe",
-      "imagem": "url_para_a_imagem_do_desporto"
+      "imagem": "https://cdn2.iconfinder.com/data/icons/iconslandsport/PNG/256x256/Boxing_Gloves.png"
     },
     {
       "nome": "Ciclismo",
-      "imagem": "url_para_a_imagem_do_desporto"
+      "imagem": "https://images.vexels.com/media/users/3/146280/isolated/lists/df4bfbcf6cfa871701fb39b55a569b60-ciclista-silueta-vista-lateral.png"
     },
     {
       "nome": "Skate",
-      "imagem": "url_para_a_imagem_do_desporto"
+      "imagem": "https://images.vexels.com/media/users/3/199417/isolated/lists/730f42f1364ae5b38d18e02893c44078-ilustracion-patineta-negra.png"
     },
     {
       "nome": "Badmínton",
-      "imagem": "url_para_a_imagem_do_desporto"
-    },
-    {
-      "nome": "Tiro",
-      "imagem": "url_para_a_imagem_do_desporto"
+      "imagem": "https://cdn-icons-png.flaticon.com/256/2633/2633871.png"
     },
     {
       "nome": "Patinagem",
-      "imagem": "url_para_a_imagem_do_desporto"
+      "imagem": "https://cdn-icons-png.flaticon.com/256/4065/4065878.png"
     },
     {
       "nome": "Esqui",
-      "imagem": "url_para_a_imagem_do_desporto"
+      "imagem": "https://images.vexels.com/media/users/3/136841/isolated/lists/f91cc0bc82e2b3088bdf896821787d3c-ski-sliding-silhouette.png"
     },
     {
       "nome": "Corrida",
-      "imagem": "url_para_a_imagem_do_desporto"
+      "imagem": "https://images.vexels.com/media/users/3/274304/isolated/lists/68baa6744ba5536436174004d252f484-corredor-de-maratona-masculino-preto-recortado.png"
     },
     {
       "nome": "Bilhar",
-      "imagem": "url_para_a_imagem_do_desporto"
+      "imagem": "https://pngimg.com/uploads/billiard/billiard_PNG10931.png"
     }
   ],
-  "frutas": [
+  "Fruta": [
     {
       "nome": "Maçã",
-      "imagem": "url_para_a_imagem_da_fruta"
+      "imagem": "https://images.vexels.com/media/users/3/145460/isolated/lists/d08a1157100d2e42f31b4a752e71c33b-ilustracao-da-maca.png"
     },
     {
       "nome": "Banana",
-      "imagem": "url_para_a_imagem_da_fruta"
+      "imagem": "https://www.pngall.com/wp-content/uploads/2016/04/Banana-PNG.png"
     },
     {
       "nome": "Laranja",
-      "imagem": "url_para_a_imagem_da_fruta"
+      "imagem": "https://static.vecteezy.com/system/resources/thumbnails/008/843/805/small/orange-fruit-on-white-background-png.png"
     },
     {
       "nome": "Morango",
-      "imagem": "url_para_a_imagem_da_fruta"
+      "imagem": "https://png.pngtree.com/png-vector/20230328/ourmid/pngtree-red-strawberry-fruit-juice-transparent-png-image_6673454.png"
     },
     {
       "nome": "Uva",
-      "imagem": "url_para_a_imagem_da_fruta"
+      "imagem": "https://images.vexels.com/media/users/3/257694/isolated/lists/1ebc51c98670a866287853772f524f4a-ilustracia-n-de-frutas-de-uva.png"
     },
     {
       "nome": "Pera",
-      "imagem": "url_para_a_imagem_da_fruta"
+      "imagem": "https://png.pngtree.com/png-vector/20240203/ourmid/pngtree-half-a-green-pear-png-image_11595460.png"
     },
     {
       "nome": "Abacaxi",
-      "imagem": "url_para_a_imagem_da_fruta"
+      "imagem": "https://cdn.meucatalogodigital.com/sacolaototal/1180045-3.png"
     },
     {
       "nome": "Melancia",
-      "imagem": "url_para_a_imagem_da_fruta"
+      "imagem": "https://i0.wp.com/hortifrutivarejo.net/wp-content/uploads/2015/10/melancia-png.png?ssl=1"
     },
     {
       "nome": "Limão",
-      "imagem": "url_para_a_imagem_da_fruta"
+      "imagem": "https://cdn.icon-icons.com/icons2/16/PNG/256/fruitfoodlemon_fruta_comida_1811.png"
     },
     {
       "nome": "Cereja",
-      "imagem": "url_para_a_imagem_da_fruta"
+      "imagem": "https://i.pinimg.com/originals/51/86/2a/51862a09e73c1536793d18aa729f5005.png"
     },
     {
       "nome": "Kiwi",
-      "imagem": "url_para_a_imagem_da_fruta"
+      "imagem": "https://icons.iconarchive.com/icons/bingxueling/fruit-vegetables/256/kiwi-icon.png"
     },
     {
       "nome": "Pêssego",
-      "imagem": "url_para_a_imagem_da_fruta"
+      "imagem": "https://i.pinimg.com/originals/15/73/a0/1573a00ef5bb87a846fd757cd62f4cb1.png"
     },
     {
       "nome": "Ananás",
-      "imagem": "url_para_a_imagem_da_fruta"
+      "imagem": "https://icons.iconarchive.com/icons/mirella-gabriele/fruits/256/pineapple-icon.png"
     },
     {
       "nome": "Manga",
-      "imagem": "url_para_a_imagem_da_fruta"
+      "imagem": "https://cdn-icons-png.flaticon.com/256/3674/3674321.png"
     },
     {
       "nome": "Melão",
-      "imagem": "url_para_a_imagem_da_fruta"
+      "imagem": "https://images.vexels.com/media/users/3/190567/isolated/lists/8e2de491c1207c12dbc063ad1d867d22-frutas-detalhadas-de-melao.png"
     },
     {
       "nome": "Framboesa",
-      "imagem": "url_para_a_imagem_da_fruta"
+      "imagem": "https://www.pingodoce.pt/wp-content/uploads/2024/01/framboesa.png"
     },
     {
       "nome": "Mirtilo",
-      "imagem": "url_para_a_imagem_da_fruta"
+      "imagem": "https://cdn-icons-png.flaticon.com/256/1652/1652129.png"
     },
     {
       "nome": "Coco",
-      "imagem": "url_para_a_imagem_da_fruta"
+      "imagem": "https://static.vecteezy.com/system/resources/thumbnails/023/743/839/small/coconut-on-transparent-background-created-with-generative-ai-png.png"
     },
     {
       "nome": "Ameixa",
-      "imagem": "url_para_a_imagem_da_fruta"
+      "imagem": "https://cdn-icons-png.flaticon.com/256/3786/3786283.png"
     },
     {
       "nome": "Figo",
-      "imagem": "url_para_a_imagem_da_fruta"
+      "imagem": "https://images.vexels.com/media/users/3/219225/isolated/lists/9c97805961837cd5fdb68c6783778ba5-ilustracao-de-figo-fatiado.png"
     }
   ],
-  "paises": [
+  "País": [
     {
       "nome": "Portugal",
-      "bandeira": "url_para_a_imagem_da_bandeira"
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/pt.png?raw=true"
     },
     {
       "nome": "Brasil",
-      "bandeira": "url_para_a_imagem_da_bandeira"
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/br.png?raw=true"
     },
     {
       "nome": "Espanha",
-      "bandeira": "url_para_a_imagem_da_bandeira"
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/es.png?raw=true"
     },
     {
       "nome": "França",
-      "bandeira": "url_para_a_imagem_da_bandeira"
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/fr.png?raw=true"
     },
     {
       "nome": "Itália",
-      "bandeira": "url_para_a_imagem_da_bandeira"
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/it.png?raw=true"
     },
     {
       "nome": "Alemanha",
-      "bandeira": "url_para_a_imagem_da_bandeira"
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/de.png?raw=true"
     },
     {
       "nome": "Estados Unidos",
-      "bandeira": "url_para_a_imagem_da_bandeira"
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/us.png?raw=true"
     },
     {
       "nome": "Canadá",
-      "bandeira": "url_para_a_imagem_da_bandeira"
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/ca.png?raw=true"
     },
     {
       "nome": "Japão",
-      "bandeira": "url_para_a_imagem_da_bandeira"
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/jp.png?raw=true"
     },
     {
       "nome": "China",
-      "bandeira": "url_para_a_imagem_da_bandeira"
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/cn.png?raw=true"
     },
     {
       "nome": "Rússia",
-      "bandeira": "url_para_a_imagem_da_bandeira"
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/ru.png?raw=true"
     },
     {
       "nome": "Reino Unido",
-      "bandeira": "url_para_a_imagem_da_bandeira"
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/gb.png?raw=true"
     },
     {
       "nome": "Argentina",
-      "bandeira": "url_para_a_imagem_da_bandeira"
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/ar.png?raw=true"
     },
     {
       "nome": "Austrália",
-      "bandeira": "url_para_a_imagem_da_bandeira"
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/au.png?raw=true"
     },
     {
       "nome": "Índia",
-      "bandeira": "url_para_a_imagem_da_bandeira"
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/in.png?raw=true"
     },
     {
       "nome": "México",
-      "bandeira": "url_para_a_imagem_da_bandeira"
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/mx.png?raw=true"
     },
     {
-      "nome": "Coreia",
-      "bandeira": "url_para_a_imagem_da_bandeira"
+      "nome": "África do Sul",
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/za.png?raw=true"
     },
     {
-      "nome": "África",
-      "bandeira": "url_para_a_imagem_da_bandeira"
-    },
-    {
-      "nome": "Egito",
-      "bandeira": "url_para_a_imagem_da_bandeira"
+      "nome": "Coreia do Sul",
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/kr.png?raw=true"
     },
     {
       "nome": "Suécia",
-      "bandeira": "url_para_a_imagem_da_bandeira"
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/se.png?raw=true"
+    },
+    {
+      "nome": "Holanda",
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/nl.png?raw=true"
+    },
+    {
+      "nome": "Suíça",
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/ch.png?raw=true"
+    },
+    {
+      "nome": "Noruega",
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/no.png?raw=true"
+    },
+    {
+      "nome": "Áustria",
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/at.png?raw=true"
+    },
+    {
+      "nome": "Bélgica",
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/be.png?raw=true"
+    },
+    {
+      "nome": "Dinamarca",
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/dk.png?raw=true"
+    },
+    {
+      "nome": "Finlândia",
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/fi.png?raw=true"
+    },
+    {
+      "nome": "Grécia",
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/gr.png?raw=true"
+    },
+    {
+      "nome": "Irlanda",
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/ie.png?raw=true"
+    },
+    {
+      "nome": "Polónia",
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/pl.png?raw=true"
+    },
+    {
+      "nome": "Turquia",
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/tr.png?raw=true"
+    },
+    {
+      "nome": "Israel",
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/il.png?raw=true"
+    },
+    {
+      "nome": "Singapura",
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/sg.png?raw=true"
+    },
+    {
+      "nome": "Indonésia",
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/id.png?raw=true"
+    },
+    {
+      "nome": "Malásia",
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/my.png?raw=true"
+    },
+    {
+      "nome": "Tailândia",
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/th.png?raw=true"
+    },
+    {
+      "nome": "Vietnã",
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/vn.png?raw=true"
+    },
+    {
+      "nome": "Filipinas",
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/ph.png?raw=true"
+    },
+    {
+      "nome": "Nova Zelândia",
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/nz.png?raw=true"
+    },
+    {
+      "nome": "Costa Rica",
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/cr.png?raw=true"
+    },
+    {
+      "nome": "Chile",
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/cl.png?raw=true"
+    },
+    {
+      "nome": "Colômbia",
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/co.png?raw=true"
+    },
+    {
+      "nome": "Equador",
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/ec.png?raw=true"
+    },
+    {
+      "nome": "Peru",
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/pe.png?raw=true"
+    },
+    {
+      "nome": "Uruguai",
+      "imagem": "https://github.com/hampusborgos/country-flags/blob/main/png250px/uy.png?raw=true"
     }
   ],
-  "marcas_carro": [
+  "Marca de Carro": [
     {
       "nome": "Toyota",
-      "logo": "caminho/para/logo_toyota.png"
+      "imagem": "https://cdn.iconscout.com/icon/free/png-256/free-toyota-7-827471.png?f=webp"
     },
     {
       "nome": "Volkswagen",
-      "logo": "caminho/para/logo_volkswagen.png"
+      "imagem": "https://cdn.iconscout.com/icon/free/png-256/free-volkswagen-51-202922.png"
     },
     {
       "nome": "Ford",
-      "logo": "caminho/para/logo_ford.png"
+      "imagem": "https://www.seleccion.growupcars.es/server/Portal_0000318_0036221/img/manufacturers/manufacturer_396.png"
     },
     {
       "nome": "Chevrolet",
-      "logo": "caminho/para/logo_chevrolet.png"
+      "imagem": "https://i.pinimg.com/originals/cf/85/d7/cf85d7b1172282be00b3f10a4457c5b5.png"
     },
     {
       "nome": "Nissan",
-      "logo": "caminho/para/logo_nissan.png"
+      "imagem": "https://cdn.iconscout.com/icon/free/png-256/free-nissan-5-202859.png"
     },
     {
       "nome": "Honda",
-      "logo": "caminho/para/logo_honda.png"
+      "imagem": "https://www.freeiconspng.com/thumbs/honda-logo-png/honda-icon-13.png"
     },
     {
       "nome": "Hyundai",
-      "logo": "caminho/para/logo_hyundai.png"
+      "imagem": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4ad36332-03b9-4804-aad7-acc8455a1109/d47up7q-7167e228-b9bc-4f85-a588-ebe78f88ffaa.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRhZDM2MzMyLTAzYjktNDgwNC1hYWQ3LWFjYzg0NTVhMTEwOVwvZDQ3dXA3cS03MTY3ZTIyOC1iOWJjLTRmODUtYTU4OC1lYmU3OGY4OGZmYWEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.5kkRToqpaEFRCd62pW2rUYm3sn8Gb6OIGxNU3O21mDk"
     },
     {
-      "nome": "Mercedes-Benz",
-      "logo": "caminho/para/logo_mercedes-benz.png"
+      "nome": "Mercedes",
+      "imagem": "https://pngimg.com/d/mercedes_logos_PNG20.png"
     },
     {
       "nome": "BMW",
-      "logo": "caminho/para/logo_bmw.png"
+      "imagem": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4ad36332-03b9-4804-aad7-acc8455a1109/d48akz6-bb4a60bd-8220-476e-9fee-c8f65085e898.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRhZDM2MzMyLTAzYjktNDgwNC1hYWQ3LWFjYzg0NTVhMTEwOVwvZDQ4YWt6Ni1iYjRhNjBiZC04MjIwLTQ3NmUtOWZlZS1jOGY2NTA4NWU4OTgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rejvDZj50hUOu5A2mcPaHLwjtTe4mUbbd32mOm9aPzQ"
     },
     {
       "nome": "Audi",
-      "logo": "caminho/para/logo_audi.png"
+      "imagem": "https://cdn.iconscout.com/icon/free/png-256/free-audi-3440985-2874094.png"
     },
     {
       "nome": "Kia",
-      "logo": "caminho/para/logo_kia.png"
+      "imagem": "https://charger.ie/media/car-brands/kia.png"
     },
     {
       "nome": "Peugeot",
-      "logo": "caminho/para/logo_peugeot.png"
+      "imagem": "https://companiesmarketcap.com/img/company-logos/256/UG.PA.png"
     },
     {
       "nome": "Renault",
-      "logo": "caminho/para/logo_renault.png"
+      "imagem": "https://pngimg.com/d/renault_PNG73.png"
     },
     {
       "nome": "Fiat",
-      "logo": "caminho/para/logo_fiat.png"
+      "imagem": "https://icon-library.com/images/fiat-icon/fiat-icon-10.jpg"
     },
     {
       "nome": "Jeep",
-      "logo": "caminho/para/logo_jeep.png"
+      "imagem": "https://cdn.iconscout.com/icon/free/png-256/free-jeep-59-202822.png?f=webp&w=256"
     },
     {
       "nome": "Volvo",
-      "logo": "caminho/para/logo_volvo.png"
+      "imagem": "https://cdn.iconscout.com/icon/free/png-256/free-volvo-202923.png?f=webp"
     },
     {
       "nome": "Mazda",
-      "logo": "caminho/para/logo_mazda.png"
+      "imagem": "https://gextek.com/wp-content/uploads/2019/07/mazda-min.png"
     },
     {
       "nome": "Subaru",
-      "logo": "caminho/para/logo_subaru.png"
+      "imagem": "https://www.tonmaxengines.co.za/wp-content/uploads/2021/11/subaru-logo.png"
     },
     {
       "nome": "Lexus",
-      "logo": "caminho/para/logo_lexus.png"
+      "imagem": "https://cdn.iconscout.com/icon/free/png-256/free-lexus-7-827477.png?f=webp"
     },
     {
       "nome": "Tesla",
-      "logo": "caminho/para/logo_tesla.png"
+      "imagem": "https://cdn.iconscout.com/icon/free/png-256/free-tesla-3445993-2878925.png?f=webp"
     },
     {
       "nome": "Jaguar",
-      "logo": "caminho/para/logo_jaguar.png"
+      "imagem": "https://cdn.iconscout.com/icon/free/png-256/free-jaguar-3-202816.png?f=webp"
     },
     {
       "nome": "Land Rover",
-      "logo": "caminho/para/logo_land_rover.png"
+      "imagem": "https://s3.amazonaws.com/robertson.partners/wp-content/uploads/2020/04/21154507/LandRover_%402x.png"
     },
     {
       "nome": "Porsche",
-      "logo": "caminho/para/logo_porsche.png"
+      "imagem": "https://charger.ie/media/car-brands/porsche.png"
     },
     {
       "nome": "Ferrari",
-      "logo": "caminho/para/logo_ferrari.png"
+      "imagem": "https://cdn.iconscout.com/icon/free/png-256/free-ferrari-3-202769.png"
     },
     {
       "nome": "Maserati",
-      "logo": "caminho/para/logo_maserati.png"
+      "imagem": "https://cdn.iconscout.com/icon/free/png-256/free-maseratti-827480.png?f=webp"
     },
     {
       "nome": "Lamborghini",
-      "logo": "caminho/para/logo_lamborghini.png"
+      "imagem": "https://cdn.iconscout.com/icon/free/png-256/free-lamborghini-282390.png?f=webp"
     },
     {
       "nome": "Aston Martin",
-      "logo": "caminho/para/logo_aston_martin.png"
+      "imagem": "https://companiesmarketcap.com/img/company-logos/256/AML.L.png"
     },
     {
       "nome": "Alfa Romeo",
-      "logo": "caminho/para/logo_alfa_romeo.png"
+      "imagem": "https://i.ibb.co/5KqrVYd/alfaromeo.png"
     },
     {
       "nome": "Bentley",
-      "logo": "caminho/para/logo_bentley.png"
+      "imagem": "https://icons.iconarchive.com/icons/simpleicons-team/simple/256/bentley-icon.png"
     },
     {
-      "nome": "Rolls-Royce",
-      "logo": "caminho/para/logo_rolls_royce.png"
+      "nome": "Rolls Royce",
+      "imagem": "https://cdn.iconscout.com/icon/free/png-256/free-rolls-royce-3441294-2874743.png?f=webp"
     },
     {
       "nome": "Bugatti",
-      "logo": "caminho/para/logo_bugatti.png"
+      "imagem": "https://cdn.iconscout.com/icon/free/png-256/free-bugatti-1863534-1580024.png"
     },
     {
       "nome": "McLaren",
-      "logo": "caminho/para/logo_mclaren.png"
+      "imagem": "https://logospng.org/download/mclaren/mclaren-256.png"
     },
     {
       "nome": "Lotus",
-      "logo": "caminho/para/logo_lotus.png"
+      "imagem": "https://www-cdn.pistonheads.com/static-assets/images/car-manufacturers/lotus.png?resize=256"
     },
     {
       "nome": "Mini",
-      "logo": "caminho/para/logo_mini.png"
+      "imagem": "https://cdn.iconscout.com/icon/free/png-256/free-bmw-1-202737.png"
     }
   ],
-  "equipas_futebol_portuguesas": [
+  "Equipa de Futebol Português": [
     {
       "nome": "Benfica",
-      "imagem": "url_para_a_imagem_da_equipa"
+      "imagem": "https://github.com/luukhopman/football-logos/blob/master/logos/PO1/SL%20Benfica.png?raw=true"
     },
     {
       "nome": "Porto",
-      "imagem": "url_para_a_imagem_da_equipa"
+      "imagem": "https://github.com/luukhopman/football-logos/blob/master/logos/PO1/FC%20Porto.png?raw=true"
     },
     {
       "nome": "Sporting",
-      "imagem": "url_para_a_imagem_da_equipa"
+      "imagem": "https://github.com/luukhopman/football-logos/blob/master/logos/PO1/Sporting%20CP.png?raw=true"
     },
     {
       "nome": "Braga",
-      "imagem": "url_para_a_imagem_da_equipa"
+      "imagem": "https://github.com/luukhopman/football-logos/blob/master/logos/PO1/SC%20Braga.png?raw=true"
     },
     {
       "nome": "Guimarães",
-      "imagem": "url_para_a_imagem_da_equipa"
+      "imagem": "https://github.com/luukhopman/football-logos/blob/master/logos/PO1/Vit%C3%B3ria%20Guimar%C3%A3es%20SC.png?raw=true"
     },
     {
       "nome": "Boavista",
-      "imagem": "url_para_a_imagem_da_equipa"
-    },
-    {
-      "nome": "Belenenses",
-      "imagem": "url_para_a_imagem_da_equipa"
-    },
-    {
-      "nome": "Paços de Ferreira",
-      "imagem": "url_para_a_imagem_da_equipa"
-    },
-    {
-      "nome": "Moreirense",
-      "imagem": "url_para_a_imagem_da_equipa"
-    },
-    {
-      "nome": "Famalicão",
-      "imagem": "url_para_a_imagem_da_equipa"
+      "imagem": "https://github.com/luukhopman/football-logos/blob/master/logos/PO1/Boavista%20FC.png?raw=true"
     },
     {
       "nome": "Portimonense",
-      "imagem": "url_para_a_imagem_da_equipa"
+      "imagem": "https://github.com/luukhopman/football-logos/blob/master/logos/PO1/Portimonense%20SC.png?raw=true"
+    },
+    {
+      "nome": "Farense",
+      "imagem": "https://github.com/luukhopman/football-logos/blob/master/logos/PO1/SC%20Farense.png?raw=true"
+    },
+    {
+      "nome": "Moreirense",
+      "imagem": "https://github.com/luukhopman/football-logos/blob/master/logos/PO1/Moreirense%20FC.png?raw=true"
+    },
+    {
+      "nome": "Famalicão",
+      "imagem": "https://github.com/luukhopman/football-logos/blob/master/logos/PO1/FC%20Famalic%C3%A3o.png?raw=true"
+    },
+    {
+      "nome": "Vizela",
+      "imagem": "https://github.com/luukhopman/football-logos/blob/master/logos/PO1/FC%20Vizela.png?raw=true"
     },
     {
       "nome": "Rio Ave",
-      "imagem": "url_para_a_imagem_da_equipa"
+      "imagem": "https://github.com/luukhopman/football-logos/blob/master/logos/PO1/Rio%20Ave%20FC.png?raw=true"
     },
     {
       "nome": "Gil Vicente",
-      "imagem": "url_para_a_imagem_da_equipa"
+      "imagem": "https://github.com/luukhopman/football-logos/blob/master/logos/PO1/Gil%20Vicente%20FC.png?raw=true"
     },
     {
-      "nome": "Tondela",
-      "imagem": "url_para_a_imagem_da_equipa"
-    },
-    {
-      "nome": "Marítimo",
-      "imagem": "url_para_a_imagem_da_equipa"
-    },
-    {
-      "nome": "Santa Clara",
-      "imagem": "url_para_a_imagem_da_equipa"
-    },
-    {
-      "nome": "Nacional",
-      "imagem": "url_para_a_imagem_da_equipa"
+      "nome": "Casa Pia",
+      "imagem": "https://github.com/luukhopman/football-logos/blob/master/logos/PO1/Casa%20Pia%20AC.png?raw=true"
     },
     {
       "nome": "Arouca",
-      "imagem": "url_para_a_imagem_da_equipa"
+      "imagem": "https://github.com/luukhopman/football-logos/blob/master/logos/PO1/FC%20Arouca.png?raw=true"
     },
     {
       "nome": "Estoril",
-      "imagem": "url_para_a_imagem_da_equipa"
-    },
-    {
-      "nome": "Varzim",
-      "imagem": "url_para_a_imagem_da_equipa"
+      "imagem": "https://github.com/luukhopman/football-logos/blob/master/logos/PO1/GD%20Estoril%20Praia.png?raw=true"
     }
   ]
 }
