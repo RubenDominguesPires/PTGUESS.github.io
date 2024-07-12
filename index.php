@@ -112,7 +112,7 @@
       </div>
     </div>
   </div>
-  <script src="js/JavaScript.js"></script>
+  <script src="js/script.js"></script>
   <script src="js/jogo.js"></script>
 </body>
 
