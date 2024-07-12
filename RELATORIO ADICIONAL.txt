@@ -1,1 +1,46 @@
 Simão ajudou-me a fazer o list button e com ideias para o meu projeto como por ex: adicionar uma navbar
+
+
+
+site para procurar as imagens de futebol e carros
+
+https://github.com/luukhopman/football-logos/tree/master/logos
+https://github.com/filippofilip95/car-logos-dataset
+
+
+hamburguer video
+https://www.youtube.com/watch?v=aNDqzlAKmZc&t=23s&ab_channel=Treehouse
+
+moonn --> sun icon tutorial
+
+https://www.youtube.com/watch?v=CUEJkJ9HDbY&t=197s&ab_channel=CodeCreative
+
+
+dark-light mode site
+https://desenvolvimentoparaweb.com/css/dark-mode-css-facil/
+color choose light mode
+https://paletadecores.com/paleta/f5f6d0/cacaa7/9e9f7d/727354/46482a/
+
+
+
+lowercase
+
+php - https://www.php.net/manual/en/function.strtolower.php
+js - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase
+
+
+Disable user from typing in input
+
+https://stackoverflow.com/questions/60555557/disable-user-from-typing-in-input
+
+
+!!!!!!!
+
+https://www.enablegeek.com/tutorial/disable-input-javascript/
+
+fiz uma funcao que permite desativar e ativar o input do formulario
+!!!!!!
+
+
+remove image drag
+https://www.shaunchander.me/disable-image-drag-by-setting-draggable-to-false/
