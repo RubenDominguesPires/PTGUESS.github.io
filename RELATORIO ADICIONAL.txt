@@ -1,5 +1,19 @@
-Simão ajudou-me a fazer o list button e com ideias para o meu projeto como por ex: adicionar uma navbar
 
+aprender javascript
+https://www.w3schools.com/js/
+aprender php
+https://www.w3schools.com/php/
+reaprender html e css
+https://www.w3schools.com/html/
+https://www.w3schools.com/css/
+
+https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child
+
+
+https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_animations/Using_CSS_animations
+
+
+https://www.w3schools.com/css/css_rwd_mediaqueries.asp
 
 
 site para procurar as imagens de futebol e carros
